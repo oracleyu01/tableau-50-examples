@@ -4,7 +4,7 @@
 이곳은 **태블로(Tableau)를 활용한 데이터 시각화 100제**를 체계적으로 정리한 깃허브 저장소입니다.  
 이 자료를 통해 태블로를 쉽고 효과적으로 익혀 **데이터 분석 역량을 한층 업그레이드**하세요! 🚀  
 
-<img src="https://github.com/oracleyu01/python_class_dap/blob/main/data/tableau.png" width="600" height="400">
+<img src="https://github.com/oracleyu01/tableau-50-examples/blob/main/data/tableau.png" width="600" height="400">
 
 ---
 
